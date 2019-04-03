@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Count Score</string>
+    <string name="lable_add1">+3 point</string>
+    <string name="lable_add2">+2 point</string>
+    <string name="lable_add3">+1 point</string>
+    <string name="btn_reset_lable">Reset</string>
+    <string name="teama">TeamA</string>
+    <string name="_0">0</string>
+
+</resources>
